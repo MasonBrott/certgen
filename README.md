@@ -82,7 +82,4 @@ Would you like to install the CA certificate system-wide? (y/N)
   - CA: 1825 days (5 years)
   - Domain: 825 days (~2.3 years)
 
-## License
-
-This script is provided under the MIT License. Modify and share as needed.
 
